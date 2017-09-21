@@ -1,0 +1,19 @@
+package com.craiig.jvm_method_trace.settings;
+
+public enum Mode {
+    PRINT,
+    DIRECT,
+    DIRECT_TEST,
+    DIRECT_TIMESTAMP,
+    DIRECT_TIMESTAMP_NATIVE,
+    TIMESTAMP_SAMPLE,
+    INVOKE,
+    INVOKE_NOARGS,
+    INVOKE_EMPTY,
+    INVOKE_NOTEST,
+    INVOKE_TRACE_NATIVE,
+    INVOKE_EMPTY_NATIVE,
+    INVOKE_BINTRACE,
+    INVOKE_BINMEM,
+    NOP
+}

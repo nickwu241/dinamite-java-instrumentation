@@ -1,0 +1,3 @@
+walltime=*
+
+adaptive=false

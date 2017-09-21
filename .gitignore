@@ -1,0 +1,9 @@
+build/
+.*.swp
+java/target
+.ycm_extra_conf.pyc
+test/*.class
+*.o
+*.so
+*.ignore
+

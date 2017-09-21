@@ -1,0 +1,6 @@
+walltime=*
+
+adaptive=true
+adaptive_min_method_invocation_count=20000
+adaptive_max_average_method_time_ns=1000
+adaptive_min_method_time_percent=0.1
